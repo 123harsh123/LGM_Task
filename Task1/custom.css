@@ -1,0 +1,70 @@
+#image{
+    width:100%;
+    height:90% ;
+}
+
+#nav-container{
+  height: 60px;
+}
+
+
+#vl {
+    border-left: 1px solid black; 
+    height: 230px;
+  }
+
+#container-contact{
+      width: 70%;
+  }
+
+#blog-cover{
+    background-image: url("images/blog9.jpeg");  
+    width:1450px ;
+    height: 400px;
+  }
+
+#zippy-team-profilepic{
+    width: 200px;
+    height: 200px;  
+    border-radius: 50%;
+}  
+
+#icon-size{
+  font-size: 80px;
+}
+
+#umbrella{
+  font-size: 200px;
+  
+}
+
+#footer-icon-size{
+  font-size: 25px;
+}
+
+#search-bar{
+  width: 1000px;
+}
+
+#video-carousel{
+  width: 800px;
+  height: 500px;
+}
+
+#iframe{
+  width: 600px;
+  height: 450px;
+}
+
+#life-in-zippy-carousel{
+  
+  
+  width: 1000px;
+  height: 670px;
+  
+}
+
+
+
+
+/* owl carosuel  */
